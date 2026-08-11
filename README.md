@@ -1,52 +1,83 @@
-# Free People Bestsellers Analysis
+# Free People Bestsellers Product Analysis
 
-This project analyzes Free People bestseller products using Excel to identify patterns in pricing, ratings, reviews, product availability, colors, styles, materials, and product trends.
+This project analyzes 75 Free People bestseller products to identify patterns in product category, color family, material type, pricing, ratings, review count, and availability.
+
+The goal was to determine which product features appeared most often among Free People bestsellers and what those patterns may suggest about customer demand, merchandising trends, and product performance.
 
 ## Tools Used
+
 - Microsoft Excel
 - Data cleaning
+- Sorting and filtering
+- XLOOKUP
 - Pivot tables
-- Charts and visual analysis
+- Pivot charts
+- Dashboard-style chart organization
 
 ## Business Questions
-- Which product categories appear most frequently among bestsellers?
-- Which colors and style characteristics are most common?
-- How do prices vary across categories and product types?
-- Which products receive the strongest customer ratings and review activity?
-- Are there patterns in product availability and sold-out sizes?
-- Which fabric materials, fits, and aesthetics appear most often among bestseller products?
+
+- What product categories appeared most often among Free People bestseller products?
+- What color families appeared most often among bestseller products?
+- What material types appeared most often among bestseller products?
+- What was the average price by product category?
+- Which product categories had the highest average rating?
+- Which product categories had the highest average review count?
+- How did products compare when grouped into broader category groups such as Apparel, Accessories, and Footwear?
 
 ## Analysis
 
-The workbook includes cleaned product-level data and analysis of:
+The dataset was cleaned and standardized across fields including:
 
-- Product category and subcategory
-- Price and discounts
-- Ratings and number of reviews
-- Size availability
-- Color families
-- Patterns and prints
+- Product category
+- Product subcategory
+- Color family
+- Primary color
+- Fabric and material descriptions
+- Material type
+- Pattern and print
 - Style and aesthetic
-- Fabric and material
-- Fit notes
-- Product style codes
+- Availability
+- Product notes
+
+A lookup table was created to group detailed product categories into broader merchandise groups such as Apparel, Accessories, and Footwear.
+
+The cleaned data was then used to create pivot tables and charts analyzing:
+
+- Product category counts
+- Color family counts
+- Material type counts
+- Average price by product category
+- Average rating by product category
+- Average review count by product category
+- Product count by broader category group
 
 ## Key Findings
 
 - Pants were the most common product category in the sample, appearing 24 times among the 75 bestseller products.
-- Earthy Neutral was the most common color family, followed by Blue Denim. This suggests the bestseller assortment leaned strongly toward grounded neutrals and denim-based tones.
-- Natural materials appeared most often, with 41 products, followed by blended materials with 27 and synthetic materials with 7.
-- Shoes had the highest average price at $214, followed by jackets at $169, while intimates had the lowest average price at $38.
-- Sets and jumpsuits had the highest average ratings at 4.5, although their lower review counts suggest those ratings should be interpreted with some caution.
-- Sweaters had the highest average review count at 312, followed by jeans at 244 and pants at 233, suggesting stronger customer engagement in those categories.
-- Apparel dominated the broader assortment, accounting for 54 of the 75 products, compared with 15 accessories and 6 footwear products.
+- Accessories were the second most common category with 15 products, followed by tops with 11.
+- Earthy Neutral was the most common color family, followed by Blue Denim. Dark Neutral and Pink were tied as the next most common color families.
+- Pants appeared most often in Blue Denim rather than Earthy Neutral, suggesting that Earthy Neutral's overall popularity was distributed across multiple product categories.
+- Natural materials appeared most often among the bestseller products, followed by blended materials. This suggests the assortment leaned toward materials associated with comfort, texture, and breathability while still including blends that may add stretch, durability, or easier care.
+- Shoes had the highest average price among product categories, followed by jackets. Intimates had the lowest average price at $38.
+- Sets and jumpsuits had the highest average ratings at 4.5, followed closely by dresses at 4.4.
+- Most product categories had average ratings between 4.1 and 4.5, indicating generally strong customer ratings across the bestseller assortment.
+- Sweaters had the highest average review count, followed by jeans and pants, suggesting stronger customer engagement in those categories.
+- Apparel represented the largest share of the bestseller assortment with 54 products, compared with 15 accessories and 6 footwear products.
+
+## Project Interpretation
+
+The bestseller assortment was heavily concentrated in apparel, especially pants, tops, sweaters, jackets, and related clothing categories.
+
+Earthy Neutral and Blue Denim were the most common color families, while natural and blended materials appeared more often than fully synthetic materials. Pricing varied considerably by category, with shoes and jackets positioned at higher average prices and intimates and tops at lower average prices.
+
+Ratings were generally positive across categories, although categories with fewer reviews should be interpreted more carefully because small review counts can make average ratings less representative.
 
 ## File
 
-- `Free People Bestsellers Analysis.xlsx` — Excel workbook containing the cleaned dataset, analysis, and charts
+- `Free_People_Bestsellers_Analysis.xlsx` — Excel workbook containing the cleaned dataset, pivot tables, charts, and analysis
 
 To explore the workbook in detail, download the `.xlsx` file and open it in Excel.
 
 ## Project Goal
 
-The goal of this project was to use Excel to organize product data, identify merchandising and consumer trends, and translate raw e-commerce product information into useful business insights.
+The goal of this project was to use Excel to organize e-commerce product data, identify recurring merchandising patterns, and translate raw product information into insights that could support merchandising, e-commerce, and marketing decisions.
