@@ -54,19 +54,19 @@ The cleaned data was then used to create pivot tables and charts analyzing:
 ## Visualizations
 
 ### Product Category Distribution
-Product_Category_Counts.png
+![Product Category Distribution](Product_Category_Counts.png)
 
 ### Color Family Distribution
-Color_Family_Count.png
+![Color Family Distribution](Color_Family_Count.png)
 
 ### Material Type Distribution
-Material_Type_Count.png
+![Material Type Distribution](Material_Type_Count.png)
 
 ### Average Price by Product Category
-Average_Price.png
+![Average Price by Product Category](Average_Price.png)
 
 ### Average Rating by Product Category
-Average_Rating.png
+![Average Rating by Product Category](Average_Rating.png)
 
 ## Key Findings
 
