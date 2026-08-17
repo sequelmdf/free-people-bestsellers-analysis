@@ -69,20 +69,14 @@ The cleaned data was then used to create pivot tables and charts analyzing:
 ![Average Rating by Product Category](Average_Rating.png)
 
 ## Key Findings
-
-- Pants were the most common product category in the sample, appearing 24 times among the 75 bestseller products.
-- Accessories were the second most common category with 15 products, followed by tops with 11.
-- Earthy Neutral was the most common color family, followed by Blue Denim. Dark Neutral and Pink were tied as the next most common color families.
-- Pants appeared most often in Blue Denim rather than Earthy Neutral, suggesting that Earthy Neutral's overall popularity was distributed across multiple product categories.
-- Natural materials appeared most often among the bestseller products, followed by blended materials. This suggests the assortment leaned toward materials associated with comfort, texture, and breathability while still including blends that may add stretch, durability, or easier care.
-- Shoes had the highest average price among product categories, followed by jackets. Intimates had the lowest average price at $38.
-- Sets and jumpsuits had the highest average ratings at 4.5, followed closely by dresses at 4.4.
-- Most product categories had average ratings between 4.1 and 4.5, indicating generally strong customer ratings across the bestseller assortment.
-- Sweaters had the highest average review count, followed by jeans and pants, suggesting stronger customer engagement in those categories.
-- Apparel represented the largest share of the bestseller assortment with 54 products, compared with 15 accessories and 6 footwear products.
+* Pants were the most common bestseller category, followed by accessories and tops.
+* Earthy Neutral and Blue Denim were the leading color families, with Blue Denim especially common among pants.
+* Natural materials appeared most often, followed by blended materials.
+* Shoes had the highest average price, while intimates had the lowest.
+* Sets and jumpsuits had the highest average ratings, with most categories ranging from 4.1–4.5.
+* Apparel represented the majority of the bestseller assortment.
 
 ## Project Interpretation
-
 The bestseller assortment was heavily concentrated in apparel, especially pants, tops, sweaters, jackets, and related clothing categories.
 
 Earthy Neutral and Blue Denim were the most common color families, while natural and blended materials appeared more often than fully synthetic materials. Pricing varied considerably by category, with shoes and jackets positioned at higher average prices and intimates and tops at lower average prices.
