@@ -52,18 +52,17 @@ The cleaned data was then used to create pivot tables and charts analyzing:
 - Product count by broader category group
 
 ## Visualizations
+![Product Category Distribution](images/Product_Category_Counts.png)
+
+![Color Family Distribution](images/Color_Family_Count.png)
+
+![Material Type Distribution](images/Material_Type_Count.png)
+
 ![Average Price](images/Average_Price.png)
 
 ![Average Rating](images/Average_Rating.png)
 
 ![Average Review Count](images/Average_Review_Count.png)
-
-![Color Family Distribution](images/Color_Family_Count.png)
-
-![Product Category Distribution](images/Product_Category_Counts.png)
-
-![Material Type Distribution](images/Material_Type_Count.png)
-
 
 ## Key Findings
 * Pants were the most common bestseller category, followed by accessories and tops.
