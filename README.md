@@ -52,6 +52,7 @@ The cleaned data was then used to create pivot tables and charts analyzing:
 - Product count by broader category group
 
 ## Visualizations
+
 ![Product Category Distribution](images/Product_Category_Counts.png)
 
 ![Color Family Distribution](images/Color_Family_Count.png)
@@ -65,6 +66,7 @@ The cleaned data was then used to create pivot tables and charts analyzing:
 ![Average Review Count](images/Average_Review_Count.png)
 
 ## Key Findings
+
 * Pants were the most common bestseller category, followed by accessories and tops.
 * Earthy Neutral and Blue Denim were the leading color families, with Blue Denim especially common among pants.
 * Natural materials appeared most often, followed by blended materials.
@@ -73,6 +75,7 @@ The cleaned data was then used to create pivot tables and charts analyzing:
 * Apparel represented the majority of the bestseller assortment.
 
 ## Project Interpretation
+
 The bestseller assortment was heavily concentrated in apparel, especially pants, tops, sweaters, jackets, and related clothing categories.
 
 Earthy Neutral and Blue Denim were the most common color families, while natural and blended materials appeared more often than fully synthetic materials. Pricing varied considerably by category, with shoes and jackets positioned at higher average prices and intimates and tops at lower average prices.
