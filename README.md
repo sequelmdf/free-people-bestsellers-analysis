@@ -51,6 +51,23 @@ The cleaned data was then used to create pivot tables and charts analyzing:
 - Average review count by product category
 - Product count by broader category group
 
+## Visualizations
+
+### Product Category Distribution
+![Product Category Distribution](images/product-category-counts.png)
+
+### Color Family Distribution
+![Color Family Distribution](images/color-family-counts.png)
+
+### Material Type Distribution
+![Material Type Distribution](images/material-type-counts.png)
+
+### Average Price by Product Category
+![Average Price by Product Category](images/average-price-category.png)
+
+### Average Rating by Product Category
+![Average Rating by Product Category](images/average-rating-category.png)
+
 ## Key Findings
 
 - Pants were the most common product category in the sample, appearing 24 times among the 75 bestseller products.
