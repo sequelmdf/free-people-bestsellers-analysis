@@ -84,7 +84,7 @@ Ratings were generally positive across categories, although categories with fewe
 
 ## File
 
-- `Free_People_Bestsellers_Analysis.xlsx` — Excel workbook containing the cleaned dataset, pivot tables, charts, and analysis
+- `Free People Bestsellers Analysis.xlsx` — Excel workbook containing the cleaned dataset, pivot tables, charts, and analysis
 
 To explore the workbook in detail, download the `.xlsx` file and open it in Excel.
 
