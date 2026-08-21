@@ -76,7 +76,7 @@ The cleaned data was then used to create pivot tables and charts analyzing:
 
 ## Project Interpretation
 
-The bestseller assortment was heavily concentrated in apparel, especially pants, tops, sweaters, jackets, and related clothing categories.
+The bestseller assortment was heavily concentrated in apparel, especially pants, then tops, sweaters, jackets, and related clothing categories.
 
 Earthy Neutral and Blue Denim were the most common color families, while natural and blended materials appeared more often than fully synthetic materials. Pricing varied considerably by category, with shoes and jackets positioned at higher average prices and intimates and tops at lower average prices.
 
